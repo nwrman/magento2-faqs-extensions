@@ -9,10 +9,6 @@
         "FAQ Extension Free",
         "FAQ Module"
     ],
-    "require": {
-        "php": "~7.2",
-        "magento/framework": "100.0.*"
-    },
     "type": "magento2-module",
     "version": "2.1.7.1",
     "license": [
